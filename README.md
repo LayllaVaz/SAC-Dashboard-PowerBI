@@ -2,7 +2,9 @@
 
 Bem-vindo ao repositório do SAC Dashboard Power BI – uma solução abrangente projetada para transformar a análise de atendimento ao cliente através de visualizações de dados poderosas e insights acionáveis.
 
-# Site para Interagir com o Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNjY4ZWUxNzktMjVkNS00YTE3LTlmNjctODdiNGRlZWIzZjMwIiwidCI6ImI5NDdhYmY1LTE2NWUtNDFiZS1hZWNjLWFkOWE5ODliNzk4MSJ9
+# Site para Interagir com o Dashboard: 
+
+https://app.powerbi.com/view?r=eyJrIjoiNjY4ZWUxNzktMjVkNS00YTE3LTlmNjctODdiNGRlZWIzZjMwIiwidCI6ImI5NDdhYmY1LTE2NWUtNDFiZS1hZWNjLWFkOWE5ODliNzk4MSJ9
 
 ## Sobre este Dashboard
 Este Dashboard foi desenvolvido com o objetivo de proporcionar uma visão clara e aprofundada do desempenho do serviço de atendimento ao cliente (SAC). Com ele, gestores e equipes de atendimento podem monitorar métricas cruciais, identificar tendências, e implementar melhorias com base em dados concretos.
