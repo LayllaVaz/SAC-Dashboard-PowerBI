@@ -22,5 +22,4 @@ Contribuições são sempre bem-vindas! Se você tem sugestões para melhorar o 
 
 Junte-se a mim na missão de elevar o atendimento ao cliente a um novo patamar de excelência. Explore o Dashboard hoje mesmo e descubra o impacto que dados e análises de qualidade podem ter no sucesso do seu SAC!
 
-
-![Dashboard SAC](https://github.com/LayllaVaz/SAC-Dashboard-PowerBI/assets/161758329/10e8ee5e-00d5-4f8f-99dd-7ab3956acf52)
+![Dashboard SAC Atualizado](https://github.com/LayllaVaz/SAC-Dashboard-PowerBI/assets/161758329/0a891941-d3c6-429e-9d6f-ad9a827a7ee7)
